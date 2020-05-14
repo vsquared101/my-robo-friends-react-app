@@ -1,0 +1,9 @@
+.robo-pic img{
+    transform: scale(0.70);
+    transition: transform 0.5s;
+    padding-bottom: 20px;
+}
+
+.robo-pic img:hover{
+    transform: scale(1);
+}
